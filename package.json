@@ -1,0 +1,23 @@
+{
+  "name": "sp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BumbleSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaowusang55/shared--playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaowusang55/shared--playground/issues"
+  },
+  "homepage": "https://github.com/xiaowusang55/shared--playground#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
